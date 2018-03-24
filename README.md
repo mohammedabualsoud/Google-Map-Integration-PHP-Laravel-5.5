@@ -14,5 +14,4 @@ a. To get data for a specific location Use this Example:
 http://127.0.0.1:8000/api/map/place/textsearch/123 main street?&location=42.3675294,-71.186966&radius=10000
 
 b. To get Data for resturant in sydey use this:
-https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants+in+Sydney
-&key=AIzaSyD0zRHij2veVnHYdOh9siGI9bljIkyaOcs
+http://127.0.0.1:8000/api/map/place/textsearch/restaurants+in+Sydney
